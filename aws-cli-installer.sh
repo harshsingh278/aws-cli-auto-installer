@@ -38,6 +38,13 @@ sudo ./aws/install --update
 
 echo ""
 echo -e "\e[32mAWS CLI installation completed successfully!\e[0m"
+
+echo -e "\e[36m==========================================================\e[0m"
+echo -e "\e[1m\e[32m🧑‍💻 Author :\e[0m Harsh Kumar Singh"
+echo -e "\e[1m\e[32m🛠️  Role   :\e[0m DevOps Engineer/Devops Student^^X6x"
+echo -e "\e[1m\e[32m🗓️  Purpose:\e[0m Automate installation of AWS CLI v2 on Ubuntu"
+echo -e "\e[36m==========================================================\e[0m"
+echo ""
 aws --version
 
 
